@@ -5,7 +5,7 @@
 
 [./second.md](./second.md)
 
-![Markdown pic](/pic.png)
+![Markdown pic](/pic.jpg)
 
 ![Markdowm Logo](https://markdown-here.com/img/icon256.png)
 
