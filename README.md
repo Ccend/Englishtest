@@ -25,5 +25,10 @@
  2. Item 2
  3. Item 3
 
+学号|姓名|分数
+-|-|-|
+小明|男|75
+小红|女|79
+小白|男|92
 
 A simple test for English
