@@ -3,6 +3,6 @@
 #### an H4sizedheader
 <https://www.bilibili.com/>
 
-[./second.md](./second.md)
+[./second.md](./second.m)
 
 A simple test for English
