@@ -1,1 +1,1 @@
-[./READ.md](./second.md)
+[./README.md](./README.md)
